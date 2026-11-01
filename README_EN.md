@@ -38,7 +38,3 @@ Copy `fastapi/.env.example` to `fastapi/.env` only if no configuration exists. C
 GitHub hosts the source; it does not run the complete application. Backend and database hosting are separate. Temporary demo URLs may expire and depend on the local computer remaining online. See [deployment instructions](DEPLOYMENT.md).
 
 Secrets, local databases, logs, and user uploads are excluded. Ollama is not yet installed. Remaining work includes Agent mode entry, cancellation when switching conversations, tool event consistency, anonymous rate limiting, and some homepage descriptions.
-
-## Attribution
-
-Adapted from the **Nonglin XiaoLin** campus AI Agent framework. Original [Chinese](docs/upstream/README.md) and [English](docs/upstream/README_EN.md) documentation is archived for attribution, not as a description of this edition's capabilities. Legacy sample data and compatibility paths retain their original meaning.
